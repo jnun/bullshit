@@ -1,5 +1,17 @@
 # Bullshit isn't always bullshit
 
+All I did was:
+
+1. Create a few files
+2. Use git add *
+3. Create a public repo (free version)
+4. Commit with messages (cause I'm fly like that)
+5. Use git push to push to main on GitHub
+
+## Nope, it didn't stop me — ya'll just wrong!
+
+# API exposure is easy!
+
 ## API keys in code happen, really it does happen
 
 Developers working solo can accidentally expose private keys, like API keys or other sensitive credentials, by committing them to publicly viewable personal repositories on GitHub due to a combination of oversight, lack of safeguards, and misunderstanding of GitHub’s visibility settings. Here’s a detailed breakdown of how this happens and why it’s a problem:
